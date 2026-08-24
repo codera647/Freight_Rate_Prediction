@@ -1,0 +1,25 @@
+# Report deliverable and its build tooling (submitted separately, not part of the code)
+Spotter_Freight_Rate_Report.docx
+Spotter_Freight_Rate_Report.pdf
+generate_report.py
+report_assets/
+
+# Generated scorer output (regenerate by running score.py)
+scorer_results/
+
+# Original assessment materials (not part of the published solution)
+PROJECT_CONTEXT.md
+freight-rate-ml-assessment.pdf
+
+# Jupyter / Python housekeeping
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+
+validation-predictions-template.csv
+validation.csv
